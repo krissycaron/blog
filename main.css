@@ -1,8 +1,22 @@
-* {
-	background-color: #58247f;
+
+
+body {
+
+}
+
+h1 {
+	color: #380360; 
+	font-size: 5em;
+}
+
+.kitty {
+
+	background-color: #c3b1d1;
+	font-family: 'Raleway', sans-serif;
+	font-size: .5em;
+	color:#f4eff7;
+	line-height:1.5em;
 }
 
 
-/*body {
-	background-color: #58247f;
-}*/
+
