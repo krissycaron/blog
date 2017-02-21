@@ -1,10 +1,9 @@
 # Readme Definition : NSS blog Excersise. 
 
 
-## Project Description
+## Screen Shot of completed UTD Blog
 
-
-![my pic](https://raw.githubusercontent.com/krissycaron/blog/master/puppyL.JPG)
+![my pic](https://raw.githubusercontent.com/krissycaron/blog/master/blog.png)
 
 ### Project Specs - Personal Blog
 
@@ -16,6 +15,15 @@
 4. Each article has a footer containing the author and publication date.
 5. Each article has at least one section.
 
+
+### How to pull down and run "Krissy's Blog"
+
+- clone and download project files
+- run code on local port
+
+#### Creator 
+
+*Krissy Caron* 
 
 
 
